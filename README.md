@@ -1,7 +1,6 @@
 # UTS-Vigenere-Chipper
 Database
-![Uploading db.png…]()
-
+![db](https://github.com/rosmananda/UTS-Vigenere-Chipper/assets/95514299/c25b9041-b16b-4628-9ca8-803fbd339faa)
 
 Output
 ![uts](https://github.com/rosmananda/UTS-Vigenere-Chipper/assets/95514299/52f7b6e2-7656-4ed1-ae48-e54ab74362cd)
